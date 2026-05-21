@@ -1,0 +1,16 @@
+{
+  "name": "Aguaviva App",
+  "short_name": "AguaApp",
+  "description": "Tu app de beneficios y recompensas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}

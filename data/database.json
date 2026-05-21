@@ -1,0 +1,72 @@
+{
+  "registros": [
+    {
+      "id": "1779322453478",
+      "nombre": "Anyelo Obregon",
+      "telefono": "04126902061",
+      "palabra": "Corredor",
+      "fechaRegistro": "2026-05-21T00:14:13.479Z",
+      "compras": 0
+    },
+    {
+      "id": "1779322574522",
+      "nombre": "Anyelo Obregon",
+      "telefono": "04126902061",
+      "palabra": "Pantera",
+      "fechaRegistro": "2026-05-21T00:16:14.522Z",
+      "compras": 0
+    },
+    {
+      "id": "1779322615153",
+      "nombre": "Endreina Omana",
+      "telefono": "04126101389",
+      "palabra": "alegria",
+      "fechaRegistro": "2026-05-21T00:16:55.153Z",
+      "compras": 0
+    },
+    {
+      "id": "1779323738537",
+      "cedula": "14259411",
+      "nombre": "Dioleida Marquez",
+      "telefono": "04126120522",
+      "palabra": "justicia",
+      "fechaRegistro": "20/5/2026, 8:35:38 p. m.",
+      "compras": 0
+    }
+  ],
+  "premios": [
+    {
+      "id": "1",
+      "nombre": "Tapa de repuesto (3er Bot.)",
+      "puntosRequeridos": 3,
+      "stock": 500
+    },
+    {
+      "id": "2",
+      "nombre": "Recarga Gratis (5to Bot.)",
+      "puntosRequeridos": 5,
+      "stock": 500
+    },
+    {
+      "id": "3",
+      "nombre": "Asa de carga (15mo Bot.)",
+      "puntosRequeridos": 15,
+      "stock": 50
+    }
+  ],
+  "fechas": [
+    {
+      "id": "1",
+      "inicio": "2026-05-20",
+      "fin": "2026-05-27",
+      "descripcion": "Semana del Ticket Dorado"
+    },
+    {
+      "id": "2",
+      "inicio": "2026-05-28",
+      "fin": "2026-06-04",
+      "descripcion": "Semana de Recarga Especial"
+    }
+  ],
+  "ultimoLunes": 1779076800000
+}
