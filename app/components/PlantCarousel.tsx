@@ -4,7 +4,7 @@ import { useState, useEffect, useRef } from 'react';
 
 const slides = [
   {
-    url: 'https://images.unsplash.com/photo-1581092335397-9583fe92d232?auto=format&fit=crop&w=1400&q=80',
+    url: 'https://plus.unsplash.com/premium_photo-1682144463486-a09f5801a60c?auto=format&fit=crop&w=1400&q=80',
     badge: 'Higiene y Bioseguridad',
     titulo: 'Lavado y Envasado Automatizado',
     descripcion: 'Esterilización interna de botellones a presión antes de cada llenado y sellado hermético.',
