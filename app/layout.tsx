@@ -18,10 +18,10 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="es" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}>
+    <html lang="es" className={`${geistSans.variable} ${geistMono.variable} h-full antialiased scroll-smooth`}>
       <body className="min-h-full flex flex-col items-center">
         <Navbar />
-        <main className="flex-1 w-full flex flex-col items-center justify-center p-4 mt-20">
+        <main className="flex-1 w-full flex flex-col items-center px-3 sm:px-6 lg:px-8 pt-20 pb-10">
           {children}
         </main>
       </body>

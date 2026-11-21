@@ -30,7 +30,6 @@ export default async function PremiosPage() {
       </div>
 
       <div className="bg-white/85 backdrop-blur-3xl border border-sky-100 rounded-3xl shadow-xl overflow-hidden relative">
-        <div className="absolute top-0 inset-x-0 h-[4px] bg-gradient-to-r from-sky-300 via-blue-500 to-sky-300"></div>
         <PrizeTable premios={premios} rango={rango} />
       </div>
     </div>
